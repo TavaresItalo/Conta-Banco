@@ -1,1 +1,1 @@
-Repositório criado para armazenar os desafios de projeto do bootcamp Java básico da DIO
+Repositório criado para armazenar o primeiro desafio de projeto do bootcamp Java básico da DIO.
